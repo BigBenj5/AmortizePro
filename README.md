@@ -1,4 +1,4 @@
-# Spacefight
+# AmortizePro APP
 
 GROUP 4 MEMBERS:
 1 Igbanacho Chimaobi Dennis     22/3027
@@ -11,3 +11,34 @@ GROUP 4 MEMBERS:
 8 Ilori Ayomide Victory         22/2901
 9 Imala Cedar Chinonyelum       22/2116
 10 Immanuel Tolulope Oladipupo  22/0473
+
+
+AmortizePro is a smart, user-friendly loan advisor designed to help you see the real cost of borrowing before you commit to loan. More than just another loan calculator, it explains what the numbers mean for your everyday life and long-term finances.
+
+Why Choose AmortizePro?
+
+Unlike ordinary loan calculators that only display figures, AmortizePro’s Smart Loan Guide gives you deeper insights by:
+
+📊 Calculating repayments for any loan amount, interest rate, and repayment term.
+
+🔍 Comparing offers from banks, dealers, brokers, and agents — all in one place.
+
+🚨 Flagging risky deals with high interest rates, hidden charges, or unfavourable terms.
+
+✅ Highlighting better options, so you can confidently choose what works for your budget.
+
+How It Helps You:
+
+Whether you’re financing a car purchase, covering school fees, or applying for a personal loan, AmortizePro provides:
+
+The total interest cost across the loan’s lifespan, the true cost of borrowing, not just the headline figure, and to make it simpler, every loan analysis ends with a verdict:
+
+Good Deal – Fair and affordable
+
+Moderate – Manageable but worth a second look
+
+Your Pocket Loan Advisor
+
+AmortizePro is more than a calculator — it’s your personal financial guide that ensures you avoid hidden traps and choose loans that are fair, transparent, and sustainable.
+
+No jargon. No confusion. Just smart insights that save you money and stress.
