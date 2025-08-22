@@ -13,7 +13,9 @@ GROUP 4 MEMBERS:
 10 Immanuel Tolulope Oladipupo  22/0473
 
 
+
 AmortizePro is a smart, user-friendly loan advisor designed to help you see the real cost of borrowing before you commit to loan. More than just another loan calculator, it explains what the numbers mean for your everyday life and long-term finances.
+
 
 Why Choose AmortizePro?
 
@@ -27,6 +29,7 @@ Unlike ordinary loan calculators that only display figures, AmortizePro’s Smar
 
 ✅ Highlighting better options, so you can confidently choose what works for your budget.
 
+
 How It Helps You:
 
 Whether you’re financing a car purchase, covering school fees, or applying for a personal loan, AmortizePro provides:
@@ -36,6 +39,8 @@ The total interest cost across the loan’s lifespan, the true cost of borrowing
 Good Deal – Fair and affordable
 
 Moderate – Manageable but worth a second look
+
+
 
 Your Pocket Loan Advisor
 
