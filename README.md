@@ -1,4 +1,4 @@
-# AmortizePro APP
+<img width="1071" height="2336" alt="1000463315" src="https://github.com/user-attachments/assets/2d18b434-409b-467c-8ba0-623a8eca5093" /># AmortizePro APP
 
 GROUP 4 MEMBERS:
 1 Igbanacho Chimaobi Dennis     22/3027
@@ -12,6 +12,10 @@ GROUP 4 MEMBERS:
 9 Imala Cedar Chinonyelum       22/2116
 10 Immanuel Tolulope Oladipupo  22/0473
 
+
+<img width="1073" height="2325" alt="1000463314" src="https://github.com/user-attachments/assets/fafef69c-89e8-44ec-885a-e300421352fb" />
+<img width="1071" height="2336" alt="1000463315" src="https://github.com/user-attachments/assets/e545efd3-918b-44b7-afeb-b02e8144f7d7" />
+<img width="1079" height="2289" alt="1000463316" src="https://github.com/user-attachments/assets/b12f28b8-ae2f-4159-a0fd-5123d5984af9" />
 
 
 AmortizePro is a smart, user-friendly loan advisor designed to help you see the real cost of borrowing before you commit to loan. More than just another loan calculator, it explains what the numbers mean for your everyday life and long-term finances.
